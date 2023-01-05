@@ -7,10 +7,13 @@
 a {
     text-decoration: none;
 }
-ul, ol, li {
-    list-style: none;
+ul, ol {
+    list-style-type: disc;
+    margin-left: 1em;
 }
-
+p {
+    margin-bottom: 1em;
+}
 /* basics */
 html, body {
     height: 100%;
@@ -19,45 +22,59 @@ body {
     min-height: 100%;
     display: flex;
     flex-direction: column;
-    font-family: "Helvetica Neue Light", "Helvetica Neue", Arial, sans-serif;
+    color: #5D6063;
+    font-size: 1.1em;
+    line-height: 1.8em;
+    font-family: "Helvetica Neue Light", "Helvetica Neue", Arial, Century, sans-serif;
 }
-.page-body {
+main {
+    padding: 1em;
     flex-grow: 1;
 }
-.page-header, .page-footer {
+.page-content {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+header, footer {
+    padding: 1em;
     flex-grow: 0;
     flex-shrink: 0;
 }
-.page-header {
-    background-color: darkgray;
+header {
+    color: #fff;
+    background-color: rgb(5, 80, 116);
 }
-.page-footer {
-    background-color: dimgrey;
-    padding: 1em;
+footer {
+    background-color: lightgray;
+    font-size: .9em;
 }
-
-/* Header */
-.page-header {
-    /* box-shadow: 1px 1px 5px 0px yellow; */
+.page-header, .page-footer {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1em;
-    background-color: teal;
-    color: #fff;
 }
 
-.nav-links a {
+/* Header */
+#logo {
+    font-weight: 400;
+    font-size: 1.8em;
+}
+.page-header a {
     color: #fff;
 }
 /* NAVBAR MENU */
 .menu {
     display: flex;
-    gap: 1em;
-    font-size: 18px;
+    gap: .7em;
+    font-size: 1.2em;
+    list-style: none;
+    margin-left: 0;
 }
 .menu li:hover {
-    background-color: #4c9e9e;
+    background-color: #436c97;
     border-radius: 5px;
     transition: 0.3s ease;
 }
@@ -78,33 +95,50 @@ body {
 }
 
 /* APPLYING MEDIA QUERIES */
-@media (max-width: 768px) {
+@media (max-width: 640px) {
     .hamburger {
         cursor: pointer;
         display: block;
     }
+    .hamburger-open {
+        display: inline-block;
+    }
+    .hamburger-close {
+        display: none;
+    }
     .menu { 
         display:none;
         position: absolute;
-        background-color:teal;
+        background-color:rgb(5, 80, 116);
         right: 0;
         left: 0;
         text-align: center;
-        padding: 16px 0;
+        padding: 0;
+        gap: 0;
+    }
+    .menu li {
+        padding: .5em 0;
     }
     .menu li:hover {
-        display: inline-block;
-        background-color:#4c9e9e;
+        display: block;
         transition: 0.3s ease;
     }
-    .menu li + li {
-        margin-top: 12px;
+    .menu li a {
+        display: block;
+        width: 100%;
     }
     #menu-toggle:checked ~ .menu {
         display: block;
+        padding-top: .5em;
+        /* box-shadow: 1px 1px 5px 0px #265797; */
+    }
+    #menu-toggle:checked ~ .hamburger .hamburger-open {
+        display: none;
+    }
+    #menu-toggle:checked ~ .hamburger .hamburger-close {
+        display: inline-block;
     }
     /* #menu-toggle:checked ~ .hamburger::before {
         content: \2613;
     } */
 }
-
