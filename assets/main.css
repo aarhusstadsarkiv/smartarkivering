@@ -7,6 +7,12 @@
 a {
     text-decoration: none;
 }
+a:visited {
+    color: rgb(0, 102, 204);
+}
+a:hover {
+    text-decoration: underline;
+}
 ul, ol {
     list-style-type: disc;
     margin-left: 1em;
@@ -22,7 +28,7 @@ body {
     min-height: 100%;
     display: flex;
     flex-direction: column;
-    color: #5D6063;
+    color: #222;
     font-size: 1.1em;
     line-height: 1.8em;
     font-family: "Helvetica Neue Light", "Helvetica Neue", Arial, Century, sans-serif;

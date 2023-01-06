@@ -1,5 +1,5 @@
 ---
 layout: redirect
 archive: aal
-permalink: "/aal"
+permalink: "/deposit/aal"
 ---

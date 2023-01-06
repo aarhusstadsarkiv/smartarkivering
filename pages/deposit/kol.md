@@ -1,5 +1,5 @@
 ---
 layout: redirect
 archive: kol
-permalink: "/kol"
+permalink: "/deposit/kol"
 ---
