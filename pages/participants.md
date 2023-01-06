@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deltagere
+title: Deltagende arkiver
 permalink: /archives
 ---
 
