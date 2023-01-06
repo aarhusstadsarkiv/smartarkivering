@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Afléver dine filer
-permalink: /deposit/
+permalink: /deposit
 ---
 
 For at aflevere dine filer til et af de deltagende stadsarkiver, skal du blot klikke på den relevante link nedenfor.
