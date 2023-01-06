@@ -15,8 +15,8 @@ description: >-
   at aflevere til et af de offentlige arkiver, der er tilmeldt
   tjenesten.
 
-domain: aarhusstadsarkiv.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://aarhusstadsarkiv.github.io/smartarkivering  # the base hostname and protocol for your site, e.g. http://example.com
+# domain: aarhusstadsarkiv.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# url: https://aarhusstadsarkiv.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /smartarkivering/               # place folder name if the site is served in a subfolder
 
 
