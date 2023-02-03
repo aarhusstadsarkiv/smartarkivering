@@ -89,14 +89,16 @@ h1#logo {
     list-style: none;
     margin-left: 0;
 }
-.menu li:hover {
+.menu a {
+    display: inline-block;
+    padding: 5px 14px;
+}
+.menu a:hover {
     background-color: #436c97;
     border-radius: 5px;
     transition: 0.3s ease;
 }
-.menu li {
-    padding: 5px 14px;
-}
+
 
 /* CHECKBOX HACK */
 #menu-toggle {
