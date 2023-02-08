@@ -1,3 +1,3 @@
-body.archive-aar {
-  color: red !important;
+body.archive-aar .button--primary {
+  background-color: red !important;
 }
