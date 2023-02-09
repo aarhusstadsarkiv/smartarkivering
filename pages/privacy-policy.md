@@ -12,8 +12,8 @@ Hvis du har spørgsmål til vores håndtering af dine persondata, er du velkomme
 Foruden det data vi modtager fra MITID, indhenter vi ingen oplysninger om dig, som du ikke selv har indtastet i afleveringsformularen. Hjemmesiden smartarkivering.dk benytter desuden ingen cookies og tracker ikke, hvem der benytter afleveringsformularerne.
 
 ## Hvor henter vi oplysninger om dig?
-#### Fra MITID
-For at benytte en af vores afleveringsformularer skal du logge på via MITID. Vi modtager og gemmer dog kun dit fulde navn derfra.
+#### Fra MitID
+For at benytte en af vores afleveringsformularer skal du logge på via MitID. Vi modtager og gemmer dog kun dit fulde navn derfra.
 
 #### Fra formularen
 Alt efter hvilket stadsarkiv, som du vælger at aflevere til, vil du sandsynligvis blive afkrævet yderligere personlig kontaktinformation, så arkivet kan kontakte dig med eventuelle afklarende spørgmål til det afleverede materiale.
@@ -26,4 +26,4 @@ Efter det valgte stadsarkiv har hentet din aflevering, er det alene arkivet, der
 ## Hvor længe gemmer vi oplysninger om dig?
 Hvis det afleverede materiale vurderes til at være bevaringsværdigt, vil de fleste arkiver ikke slette de afleverede personoplysninger, da disse oplysninger i så fald er påkrævede i forhold til både ophavsrettigheder, samt arkivernes behov for at kunne identificere, hvorfra de bevarede materialer i deres samlinger oprinder.
 
-For at få oplyst hvilke personoplysninger, der bevares og hvor længe, skal du kontakte de stadsarkiv, som du har afleveret dine filer til.
+For at få oplyst hvilke personoplysninger, der bevares og hvor længe, skal du kontakte det stadsarkiv, som du har afleveret dine filer til.
