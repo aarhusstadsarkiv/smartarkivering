@@ -9,7 +9,7 @@ På denne side finder du overordnet information om, hvorfra vi indhenter dine op
 Hvis du har spørgsmål til vores håndtering af dine persondata, er du velkommen til at kontakte projektledelsen. Hvis du måtte ønske det, sender vi dig videre til rette databeskyttelsesrådgiver.
 
 ## Hvilke oplysninger indhenter vi om dig?
-Foruden det data vi modtager fra MITID, indhenter vi ingen oplysninger om dig, som du ikke selv har indtastet i afleveringsformularen. Hjemmesiden smartarkivering.dk benytter desuden ingen cookies og tracker ikke, hvem der benytter afleveringsformularerne.
+Foruden det data vi modtager fra MitID, indhenter vi ingen oplysninger om dig, som du ikke selv har indtastet i afleveringsformularen. Hjemmesiden smartarkivering.dk benytter desuden ingen cookies og tracker ikke, hvem der benytter afleveringsformularerne.
 
 ## Hvor henter vi oplysninger om dig?
 #### Fra MitID
