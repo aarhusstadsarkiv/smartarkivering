@@ -11,5 +11,6 @@ For at aflevere dine filer til et af de deltagende stadsarkiver, skal du blot kl
 Før du kommer til formularen, hvor du skal indtaste noget information om de valgte filer, vil du først skulle logge ind med MIDID eller NEMID. Efer login vil du blive sendt direkte til den valgte formular. Både login og formular styres aktuelt fra Aarhus Kommune, som er en af projektdeltagerne...
 
 ## Vælg modtagende arkiv
-- [Aflever til Aarhus Stadsarkiv]({{site.github.url}}/deposit/aar)
-- [Aflever til Kolding Stadsarkiv]({{site.github.url}}/deposit/kol)
+- [Aflever til Aarhus Stadsarkiv](https://www.smartarkivering.dk/deposit/aar)
+- [Aflever til Aalborg Stadsarkiv](https://www.smartarkivering.dk/deposit/aal)
+- [Aflever til Kolding Stadsarkiv](https://www.smartarkivering.dk/deposit/kol)
