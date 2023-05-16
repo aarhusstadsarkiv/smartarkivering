@@ -12,5 +12,4 @@ Før du kommer til formularen, hvor du skal indtaste noget information om de val
 
 ## Vælg modtagende arkiv
 - [Aflever til Aarhus Stadsarkiv](https://www.smartarkivering.dk/deposit/aar)
-- [Aflever til Aalborg Stadsarkiv](https://www.smartarkivering.dk/deposit/aal)
 - [Aflever til Kolding Stadsarkiv](https://www.smartarkivering.dk/deposit/kol)
