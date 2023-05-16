@@ -12,5 +12,4 @@ Før du kommer til formularen, hvor du skal indtaste noget information om de val
 
 ## Vælg modtagende arkiv
 - [Aflever til Aarhus Stadsarkiv]({{site.github.url}}/deposit/aar)
-- [Aflever til Aalborg Stadsarkiv]({{site.github.url}}/deposit/aal)
 - [Aflever til Kolding Stadsarkiv]({{site.github.url}}/deposit/kol)
