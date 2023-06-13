@@ -6,7 +6,7 @@ layout: default
 
 Smartarkivering.dk er i øjeblikket under rekonstruktion, da den teknologiske udvikling, og kravene til stadige sikkerhedsforbedringer, har betydet, at vi nu er ved at bygge en ny løsning. Da flere stadsarkiver samtidig har vist interesse i projektet, giver den nye løsning ikke blot mulighed for at aflevere til Aarhus Stadsarkiv, men også snart til stadsarkiverne i både Aalborg og Kolding.
 
-Den nye løsning er udviklet med økonomisk støtte fra [ODA](https://www.dkarkiver.dk), og pilotprojektet ventes klar 1. juni 2023.
+Den nye løsning er udviklet med økonomisk støtte fra [ODA](https://www.dkarkiver.dk), og pilotprojektet ventes klar 1. juli 2023.
 
 Mange tak for tålmodigheden og undskyld ulejligheden!
 

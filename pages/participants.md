@@ -4,7 +4,4 @@ title: Deltagende arkiver
 permalink: /archives
 ---
 
-Aktuelt er det muligt at aflevere filer til nedenstående stadsarkiver. Efter pilot-fasen inviteres andre danske stadsarkivet til at deltage i projektet.
-
-- Aarhus Stadsarkiv
-- Kolding Stadsarkiv
+Under pilotprojektet kan du aflevere digitale filer til enten Aarhus, Aalborg eller Kolding Kommunes Stadsarkiv. Efter pilot-fasen inviteres andre danske stadsarkivet til at deltage i projektet.
