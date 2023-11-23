@@ -14,11 +14,6 @@ Før du kommer til formularen, hvor du kan beskrive og aflevere dine filer, vil 
 Både loginside og formular hostes aktuelt på servere, der er placeret hos Aarhus Kommune, som er en af projektdeltagerne. 
 
 ## Modtagende arkiver
-- Aarhus Stadsarkiv
+- [Aarhus Stadsarkiv](aar)
 - Aalborg Stadsarkiv
-- Kolding Stadsarkiv
-
-<!-- ## Vælg modtagende arkiv
-- [Aflever til Aarhus Stadsarkiv](https://www.smartarkivering.dk/deposit/aar)
-- [Aflever til Aalborg Stadsarkiv](https://www.smartarkivering.dk/deposit/aal)
-- [Aflever til Kolding Stadsarkiv](https://www.smartarkivering.dk/deposit/kol) -->
+- [Kolding Stadsarkiv](kol)

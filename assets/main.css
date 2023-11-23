@@ -35,12 +35,13 @@ body {
     font-family: "Helvetica Neue Light", "Helvetica Neue", Arial, Century, sans-serif;
 }
 main {
-    padding: 1em;
+    padding: 1.5em 1em;
     flex-grow: 1;
 }
 .page-content {
     max-width: 1024px;
     margin: 0 auto;
+    padding-bottom: 1em;
 }
 header, footer {
     padding: .5em 1em;
@@ -177,11 +178,57 @@ h1 {
     padding-bottom: .2em;
     padding-top: .15em;
     border-bottom: 1px solid #9e9a9a;
-    margin-bottom: .3em;
+    margin-bottom: .6em;
 }
 h2 {
     font-weight: normal;
     padding-bottom: .15em;
     padding-top: .2em;
     margin-bottom: .25em;
+}
+
+.benefits-header {
+    margin: 1em 0 .8em;
+}
+.deposit-container {
+    display: flex;
+    justify-content: flex-end;
+}
+a.deposit-button {
+    display: inline-block;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: .75rem 1rem;
+    background-color: #0060e6;
+    border-color: #0060e6;
+    color: #fff;
+    border-radius: .25rem;
+    border: 1px solid rgba(0,0,0,0);
+    vertical-align: middle;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    /* float: right; */
+
+}
+a.deposit-button:hover {
+    background-color: #004cb8;
+    border-color: #004cb8;
+    color: #fff;
+}
+
+.terms {
+    padding: 1em;
+    background-color: #e6e6e6;
+}
+
+@media (min-width: 45em) {
+    .two-cols {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1.5em;
+        align-items: start;
+        margin-bottom: 1.5em;
+    }
+}
+.two-cols img {
+    width: 100%;
 }
