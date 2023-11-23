@@ -6,13 +6,33 @@ title: Afléver til Aarhus Stadsarkiv
 permalink: "/deposit/aar"
 ---
 
-Tak fordi du vil aflevere dine filer til Aarhus Stadsarkiv! Inden du afleverer dine filer, er der nogle forhold, som vi gerne vil informere dig om, og som du derfor allerede nu kan tage stilling til.
+<div class="two-cols">
+    <div>
+        <p>Tak fordi du vil aflevere dine filer til Aarhus Stadsarkiv! Inden du afleverer dine filer, er der nogle forhold, som vi gerne vil informere dig om, og som du derfor allerede nu kan tage stilling til.</p>
+    </div>
+    <div>
+        <img src="{{ '/../assets/000480989.jpg' | relative_url }}">
+    </div>
+    <div>
+        <h3>Formidling af det afleverede materiale</h3>
+        <p>Vores ønske med Smartarkivering er både at forøge mængden af borger-produceret materialer i vores arkiv, men også at forøge mængden af materialer, som vi må formidle til alle andre borgere. Derfor har vi valgt, at afleveringer gennem Smartarkivering.dk skal...</p>
+    </div>
+    <div>
+        <img src="{{ '/../assets/aarhusarkivet.jpg' | relative_url }}" style="border: 1px solid #e6e6e6;">
+    </div>
+    <div>
+        <h3>Filformater og -størrelser</h3>
+        <p>Vi tager imod alle gængse filformater i størrelser op til 300MB, men skulle du have en eller flere filformater, som servicen ikke vil acceptere, må du gerne kontakte os, så vi kan finde en alternativ måde at aflevere disse filer på.</p>
+    </div>
+    <div>
+        <div class="contact-box">
+        <h4>Kontakt</h4>
+        <p>Aarhus Stadarkiv<br>Hack Kampmanns Plads 2<br>DOKK1, niveau 2.2<br>8000 Aarhus C</p>
+        <p>Telefon: 41856545<br>Mail: stadsarkiv@aarhus.dk</p>
+        </div>
+    </div>
+</div>
 
-### Formidling af det afleverede materiale
-Vores ønske med Smartarkivering er både at forøge mængden af borger-produceret materialer i vores arkiv, men også at forøge mængden af materialer, som vi må formidle til alle andre borgere. Derfor har vi valgt, at afleveringer gennem Smartarkivering.dk skal...
-
-### Filformater og -størrelser
-Vi tager imod alle gængse filformater i størrelser op til 300MB, men skulle du have en eller flere filformater, som servicen ikke vil acceptere, må du gerne kontakte os, så vi kan finde en alternativ måde at aflevere disse filer på.
 
 ### Kassation
 Vi forbeholder os ret til at kassere i de filer, du afleverer gennem smartarkivering.dk. Måske har vi allerede materialet i forvejen, måske vurderer vi, at materialet kun har rent privat interesse for dig eller måske omhandler materialet overhovedet ikke Aarhus kommune.
@@ -28,7 +48,10 @@ Når du er klar til at aflevere dine filer, klikker du på "Afléver filer"-knap
 ### Vilkår
 Følgende er de samlede vilkår, som skal accepteres inden en aflevering kan godtages af Aarhus Stadsarkiv:
 
-<div class="terms">
+
+<details class="terms">
+    <summary>Læs om alle vilkårene</summary>
+    <div>
     <p>De betingelser for aflevering, som beskrives i det følgende, gælder kun for de afleveringer, der foretages gennem denne hjemmeside. Hvis du gerne vil aflevere materialet, men ikke kan acceptere nærværende vilkår, er du velkommen til at kontakte os, så finder vi en alternativ løsning.</p>
     <p>For at uploade materiale til stadsarkivet på denne hjemmeside, skal du godkende følgende vilkår for brugerbidrag:</p>
     <h4>Du garanterer, at:</h4>
@@ -51,4 +74,5 @@ Følgende er de samlede vilkår, som skal accepteres inden en aflevering kan god
     <p>Vi videregiver ikke dine kontaktoplysninger til andre.</p>
     <h4>Bevaring og kassation</h4>
     <p>Aarhus Stadsarkiv forbeholder sig ret til at kassere i det afleverede materiale.</p>
-</div>
+    </div>
+</details>

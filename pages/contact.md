@@ -18,5 +18,5 @@ permalink: /contact
 </div>
 <div>
     <h3>Tekniske spørgsmål</h3>
-    <p>For tekniske spørgsmål til hjemmesiden skal du skrive til stadsarkiv@aarhus.dk, som er projektleder på smartarkivering.dk. Du kan også <a href="mailto:stadsarkiv@aarhus.dk?subject=Mail fra Smartarkivering">klikke her</a> for at åbne dit mailprogram direkte.</p>
+    <p>For tekniske spørgsmål til hjemmesiden skal du skrive til Aarhus Stadsarkiv (stadsarkiv@aarhus.dk), som er projektleder på smartarkivering.dk. Du kan også <a href="mailto:stadsarkiv@aarhus.dk?subject=Mail fra Smartarkivering">klikke her</a> for at åbne dit mailprogram direkte.</p>
 </div>

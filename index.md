@@ -18,7 +18,7 @@ layout: default
     </div>
 </div>
 <div>
-    <p>Klik på knappen nedenfor eller på menupunktet "Aflever filer" øverst til venstre, for at vælge hvilket arkiv du gerne vil aflevere dine filer til.</p>
+    <p>Klik på knappen nedenfor eller på menupunktet "Aflever filer" i hovedmenuen for at vælge, hvilket arkiv du gerne vil aflevere dine filer til.</p>
     <div class="deposit-container">
         <a class="deposit-button" href="{{ '/deposit/' | relative_url }}">Afléver dine filer</a>
     </div>

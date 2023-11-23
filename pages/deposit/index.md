@@ -16,4 +16,4 @@ Både loginside og formular hostes aktuelt på servere, der er placeret hos Aarh
 ## Modtagende arkiver
 - [Aarhus Stadsarkiv](aar)
 - Aalborg Stadsarkiv
-- [Kolding Stadsarkiv](kol)
+- Kolding Stadsarkiv

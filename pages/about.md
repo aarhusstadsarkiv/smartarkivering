@@ -20,7 +20,7 @@ Den nuværende version af Smartarkivering blev taget i brug i 2023. Den er udvik
         <p>Arkiverne udvider deres samlinger ved at bygge direkte på borgernes egne digitaliseringer.</p>
     </div>
     <div>
-        <h3>NemID/MitID-login</h3>
+        <h3>MitID-login</h3>
         <p>Når CPR-nr. kommer retur fra autentificering, hentes stamoplysninger på borgeren via Serviceplatformen.</p>
     </div>  
     <div>

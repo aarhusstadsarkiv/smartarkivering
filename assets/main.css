@@ -213,11 +213,30 @@ a.deposit-button:hover {
     background-color: #004cb8;
     border-color: #004cb8;
     color: #fff;
+    text-decoration: none;
 }
 
-.terms {
-    padding: 1em;
+.contact-box {
+    background-color: #ededed;
+    padding: 1em 1.3em;
+    border-radius: 1px;
+}
+.contact-box h4 {
+    text-transform: uppercase;
+    margin-bottom: .5em;
+}
+
+.terms summary {
     background-color: #e6e6e6;
+    border-radius: 3px;
+    padding: .6em;
+    padding-left: 1em;
+    font-size: larger;
+    cursor: pointer;
+}
+.terms div {
+    background-color: #e6e6e6;
+    padding: 1em;
 }
 
 @media (min-width: 45em) {
