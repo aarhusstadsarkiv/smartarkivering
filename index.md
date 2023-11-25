@@ -18,8 +18,11 @@ layout: default
     </div>
 </div>
 <div>
-    <p>Klik på knappen nedenfor eller på menupunktet "Aflever filer" i hovedmenuen for at vælge, hvilket arkiv du gerne vil aflevere dine filer til.</p>
-    <div class="deposit-container">
-        <a class="deposit-button" href="{{ '/deposit/' | relative_url }}">Afléver dine filer</a>
-    </div>
+    <h2>Vælg modtagende arkiv</h2>
+    <p>I denne først fase af projektet er det muligt at aflevere dine filer til en af nedenstående stadsarkiver. Hvis du således vil aflevere materiale, som ikke har nogen relation til en af de tre byer, må du kontakte det relevante arkiv direkte.</p>
+    <ul>
+        <li><a href="{{ '/deposit/aar' | relative_url }}">Aarhus Stadsarkiv</a></li>
+        <li>Aalborg Stadsarkiv</li>
+        <li>Kolding Stadsarkiv</li>
+    </ul>
 </div>

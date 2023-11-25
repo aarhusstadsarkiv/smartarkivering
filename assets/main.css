@@ -35,7 +35,7 @@ body {
     font-family: "Helvetica Neue Light", "Helvetica Neue", Arial, Century, sans-serif;
 }
 main {
-    padding: 1.5em 1em;
+    padding: 2em 1em;
     flex-grow: 1;
 }
 .page-content {
@@ -215,10 +215,17 @@ a.deposit-button:hover {
     color: #fff;
     text-decoration: none;
 }
+.mitid-svg {
+    height: 1.1em;
+    width: 5em;
+    margin-bottom: -.15em;
+    fill: white;
+    margin-right: .5em;
+}
 
 .contact-box {
     background-color: #ededed;
-    padding: 1em 1.3em;
+    padding: 1.2em 1.5em 0.4em 1.5em;
     border-radius: 1px;
 }
 .contact-box h4 {
@@ -239,13 +246,16 @@ a.deposit-button:hover {
     padding: 1em;
 }
 
+.two-cols div {
+    margin-bottom: 2em;
+}
 @media (min-width: 45em) {
     .two-cols {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-gap: 1.5em;
+        column-gap: 2em;
         align-items: start;
-        margin-bottom: 1.5em;
+        margin-bottom: 2em;
     }
 }
 .two-cols img {
