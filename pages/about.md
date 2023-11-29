@@ -29,10 +29,10 @@ Den nuværende version af Smartarkivering blev taget i brug i 2023. Den er udvik
     </div>
     <div>
         <h3>Tilpasning efter behov</h3>
-        <p>Arkiverne kan både anvende løsningen til borgerrettet indsamling og samarbejde med egne forvaltninger. Arkiver beskriver sine egne formularer.</p>
+        <p>Arkiverne kan både anvende løsningen til borgerrettet indsamling og samarbejde med egne forvaltninger. Arkiver beskriver deres egne formularer.</p>
     </div>
     <div>
         <h3>Et indsamlingsværktøj</h3>
-        <p>Smartarkivering støtter indsamling, ikke katalogisering. Arkiverne overfører de modtagne til deres egne arkivsystemer.</p>
+        <p>Smartarkivering støtter indsamling, ikke katalogisering. Arkiverne overfører de modtagne filer til deres egne arkivsystemer.</p>
     </div>
 </div>

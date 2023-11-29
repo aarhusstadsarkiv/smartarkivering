@@ -11,7 +11,7 @@ layout: default
         <img src="{{ '/../assets/000278592.jpg' | relative_url }}">
     </div>
     <div>
-        <p>Som udgangspunkt kan du aflevere stort set hvilke filer det skal være. Både med hensyn til format og størrelse. Det eneste vi beder om, er at du også er villig til at beskrive de filer du afleverer, samt at du accepterer de brugsvilkår, som det valgte arkiv opstiller.</p>
+        <p>Som udgangspunkt kan du aflevere stort set hvilke filer det skal være. Både med hensyn til format og størrelse. Det eneste, vi beder om, er at du også er villig til at beskrive de filer, du afleverer, samt at du accepterer de brugsvilkår, som det valgte arkiv opstiller.</p>
     </div>
     <div>
         <img src="{{ '/../assets/000184856.jpg' | relative_url }}">
@@ -19,7 +19,7 @@ layout: default
 </div>
 <div>
     <h2>Vælg modtagende arkiv</h2>
-    <p>I denne først fase af projektet er det muligt at aflevere dine filer til en af nedenstående stadsarkiver. Hvis du således vil aflevere materiale, som ikke har nogen relation til en af de tre byer, må du kontakte det relevante arkiv direkte.</p>
+    <p>I denne første fase af projektet er det muligt at aflevere dine filer til et af nedenstående stadsarkiver. Hvis du således vil aflevere materiale, som ikke har nogen relation til en af de tre byer, må du kontakte det relevante arkiv direkte.</p>
     <ul>
         <li><a href="{{ '/deposit/aar' | relative_url }}">Aarhus Stadsarkiv</a></li>
         <li>Aalborg Stadsarkiv</li>

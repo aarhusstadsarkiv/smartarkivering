@@ -13,14 +13,14 @@ permalink: "/deposit/aar"
     </div>
     <div>
         <h3>Formidling af det afleverede materiale</h3>
-        <p>Vores ønske med Smartarkivering er både at forøge mængden af borger-produceret materialer i vores arkiv, men også at forøge mængden af materialer, som vi må formidle til alle andre borgere. Derfor har vi valgt, at afleveringer gennem Smartarkivering.dk skal...</p>
+        <p>Vores ønske med Smartarkivering er både at forøge mængden af borger-produceret materialer i vores arkiv, men også at forøge mængden af materialer, som vi må formidle til alle andre borgere. Derfor har vi valgt, at afleveringer gennem Smartarkivering.dk publiceres i Aarhus Stadsarkivs digitale arkiv AarhusArkivet.dk. Vil du se, hvordan vi formidler byens historie, vil vi også anbefale at besøge AarhusWiki.dk</p>
     </div>
     <div>
         <img src="{{ '/../assets/aarhusarkivet.jpg' | relative_url }}" style="border: 1px solid #e6e6e6;">
     </div>
     <div>
         <h3>Kassation</h3>
-        <p>Vi forbeholder os ret til at kassere i de filer, du afleverer gennem smartarkivering.dk. Måske har vi allerede materialet i forvejen, måske vurderer vi, at materialet kun har rent privat interesse for dig eller måske omhandler materialet overhovedet ikke Aarhus kommune.</p>
+        <p>Vi forbeholder os ret til at kassere i de filer, du afleverer gennem Smartarkivering. Måske har vi allerede materialet i forvejen, måske vurderer vi, at materialet kun har rent privat interesse for dig, eller måske omhandler materialet overhovedet ikke noget i Aarhus Kommune.</p>
     </div>
     <div>
         <div class="contact-box">
