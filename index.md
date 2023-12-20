@@ -22,7 +22,7 @@ layout: default
     <p>I denne første fase af projektet er det muligt at aflevere dine filer til et af nedenstående stadsarkiver. Hvis du således vil aflevere materiale, som ikke har nogen relation til en af de tre byer, må du kontakte det relevante arkiv direkte.</p>
     <ul>
         <li><a href="{{ '/deposit/aar' | relative_url }}">Aarhus Stadsarkiv</a></li>
-        <li>Aalborg Stadsarkiv</li>
+        <li><a href="https://www.aalborgstadsarkiv.dk/FKETBV6DK983NF9SF34JD3F/V3_DigitalAflevering.asp">Aalborg Stadsarkiv</a></li>
         <li>Kolding Stadsarkiv</li>
     </ul>
 </div>
