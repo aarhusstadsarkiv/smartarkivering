@@ -19,7 +19,7 @@ layout: default
 </div>
 <div>
     <h2>Vælg modtagende arkiv</h2>
-    <p>I denne første fase af projektet er det muligt at aflevere dine filer til et af nedenstående stadsarkiver. Hvis du således vil aflevere materiale, som ikke har nogen relation til en af de tre byer, må du kontakte det relevante arkiv direkte.</p>
+    <p>I denne første fase af projektet er det muligt at aflevere dine filer til et af nedenstående stadsarkiver. Hvis du således vil aflevere materiale, som ikke har nogen relation til en af byerne, må du kontakte det relevante arkiv direkte.</p>
     <ul>
         <li><a href="{{ '/deposit/aar' | relative_url }}">Aarhus Stadsarkiv</a></li>
         <li><a href="https://www.aalborgstadsarkiv.dk/DigitalAflevering.asp">Aalborg Stadsarkiv</a></li>
