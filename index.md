@@ -23,7 +23,7 @@ layout: default
     <ul>
         <li><a href="{{ '/deposit/aar' | relative_url }}">Aarhus Stadsarkiv</a></li>
         <li><a href="https://www.aalborgstadsarkiv.dk/DigitalAflevering.asp">Aalborg Stadsarkiv</a></li>
-        <li><a href="https://koldingstadsarkiv.dk/smartarkivering">Kolding Stadsarkiv</a></li>
+        <li><a href="https://koldingstadsarkiv.dk/deltag-i-historien/smartarkivering">Kolding Stadsarkiv</a></li>
         <li><a href="https://selvbetjening.aarhuskommune.dk/da/content/smartarkivering?archive=ran">Randers Stadsarkiv</a></li>
     </ul>
 </div>
